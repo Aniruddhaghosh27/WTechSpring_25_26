@@ -13,3 +13,7 @@ alert("Quantity cannot be negative. Resetting to 0.");
 quantity = 0;
 quantityInput.value = 0;
 }
+
+let total = unitPrice * quantity * days;
+
+totalPriceInput.value = total;
