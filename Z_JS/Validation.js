@@ -17,3 +17,10 @@ quantityInput.value = 0;
 let total = unitPrice * quantity * days;
 
 totalPriceInput.value = total;
+f(total > 1000){
+alert("Congratulations! You are eligible for a gift coupon.");
+}
+
+}
+
+quantityInput.addEventListener("input", calculateTotal);
