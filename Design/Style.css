@@ -10,3 +10,19 @@ header{
     color:white;
     padding:20px;
 } 
+.container{
+    margin-top:40px;
+}
+
+fieldset{
+    width:350px; 
+    margin:0 auto;
+    padding:20px;
+    border:2px solid #000;
+    background:white;
+}
+
+legend{
+    font-weight:bold;
+    text-align: left;
+}
