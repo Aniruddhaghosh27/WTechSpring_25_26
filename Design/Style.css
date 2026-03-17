@@ -28,3 +28,11 @@ input{
 padding:8px;
 width:150px;
 }
+footer{
+background:#333;
+color:white;
+padding:10px;
+position:fixed;
+bottom:0;
+width:100%;
+}
