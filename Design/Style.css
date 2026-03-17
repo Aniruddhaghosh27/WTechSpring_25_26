@@ -31,3 +31,11 @@ input{
     width:200px; 
     margin-top:10px; 
 }
+footer{
+    background:#333;
+    color:white;
+    padding:10px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
