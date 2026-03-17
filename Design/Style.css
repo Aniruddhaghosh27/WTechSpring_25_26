@@ -12,10 +12,12 @@ header{
 } 
 .container{
     margin-top:40px;
+    display:flex;
+    justify-content:center;
 }
 
 fieldset{
-    width:350px; 
+    width:320px; 
     margin:0 auto;
     padding:20px;
     border:2px solid #000;
