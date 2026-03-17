@@ -26,3 +26,8 @@ legend{
     font-weight:bold;
     text-align: left;
 }
+input{
+    padding:8px;
+    width:200px; 
+    margin-top:10px; 
+}
